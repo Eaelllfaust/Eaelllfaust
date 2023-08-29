@@ -1,1 +1,1 @@
-<h2 style="color:#FFD700">What's your genius?</h2>
+<h2>For all of your time, serve men.</h2>
