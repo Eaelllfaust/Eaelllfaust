@@ -26,9 +26,7 @@ The gentleman is something of a unicorn. Maybe cheap flattery, but I believe my 
 
 An interdisciplinary designer and software developer. 🎨💻
 
-```
-$ echo "I am Eaelll Leon Faust, and you're a proper chat."
-```
+I am Eaelll Leon Faust, and you're a proper chat.
 
 ---
 
