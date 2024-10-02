@@ -28,11 +28,10 @@ An interdisciplinary designer and software developer. 🎨
 
 I am Eaelll Leon Faust, and you're a proper chat.
 
-<details>
+
 <summary>📊 GitHub Stats</summary>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Eaelllfaust&show_icons=true&theme=radical&count_private=true)
 
-</details>
 
-<details>
+
