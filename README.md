@@ -1,4 +1,4 @@
-# Eaelll Leon Faust
+
 
 ```
 $ whoami
@@ -16,7 +16,7 @@ But this is the part where I confess I have an unhealthy obsession with financia
 $ ./company_info.sh
 ```
 
-So what of it? Well I happen to found mypursepay. A company commited to growing the nigerians wealth economy. A canvas I can paint on, and leave any shred of ingenuity that can come of obsession (healthy or unhealthy). 🚀🇳🇬
+So what of it? Well I happen to found mypursepay. A company commited to growing the nigerians wealth economy. A canvas I can paint on, and leave any shred of ingenuity that can come of obsession (healthy or unhealthy). 
 
 ```
 $ echo $wellwhat
@@ -29,9 +29,6 @@ An interdisciplinary designer and software developer. 🎨💻
 I am Eaelll Leon Faust, and you're a proper chat.
 
 ---
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eaelllfaust&layout=compact&theme=radical)
 
 
 ---
