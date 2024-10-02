@@ -26,6 +26,10 @@ The gentleman is something of a unicorn. Maybe cheap flattery, but I believe my 
 
 An interdisciplinary designer and software developer. 🎨
 
+# My Gear
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+
 I am Eaelll Leon Faust, and you're a proper chat.
 
 
