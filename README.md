@@ -24,7 +24,7 @@ $ echo $wellwhat
 
 The gentleman is something of a unicorn. Maybe cheap flattery, but I believe my portfolio judges me right. (You should find the link to it anywhere my profile image is) 🦄
 
-An interdisciplinary designer and software developer. 🎨💻
+An interdisciplinary designer and software developer. 🎨
 
 I am Eaelll Leon Faust, and you're a proper chat.
 
