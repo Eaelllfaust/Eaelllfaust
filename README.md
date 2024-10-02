@@ -10,7 +10,7 @@ Yes, I am a software engineer ❤️.
 $ cat confession.txt
 ```
 
-But this is the part where I confess I have an unhealthy obsession with financial technology products. I love building them, I love maintaining them, and I ofcourse, love breaking them, just to fix them right after. Fortune favors the paranoid... and their friends (Who would have thought) 💰🔧🔨
+But this is the part where I confess I have an unhealthy obsession with financial technology products. I love building them, I love maintaining them, and I ofcourse, love breaking them, just to fix them right after. Fortune favors the paranoid... and their friends (Who would have thought)
 
 ```
 $ ./company_info.sh
@@ -24,7 +24,7 @@ $ echo $wellwhat
 
 The gentleman is something of a unicorn. Maybe cheap flattery, but I believe my portfolio judges me right. (You should find the link to it anywhere my profile image is) 🦄
 
-An interdisciplinary designer and software developer. 🎨
+An interdisciplinary designer and software developer. 
 
 <p>I am Eaelll Leon Faust, and you're a proper chat.</p>
 
