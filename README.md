@@ -1,5 +1,5 @@
 # 🐉 Eaelll Leon Faust 
-**`eaelllleonfaust.co`**
+
 ```
 $ whoami
 ```
