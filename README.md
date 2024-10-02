@@ -19,7 +19,7 @@ $ ./company_info.sh
 So what of it? Well I happen to found mypursepay. A company commited to growing the nigerians wealth economy. A canvas I can paint on, and leave any shred of ingenuity that can come of obsession (healthy or unhealthy). 🚀🇳🇬
 
 ```
-$ echo $SKILLS
+$ echo $wellwhat
 ```
 
 The gentleman is something of a unicorn. Maybe cheap flattery, but I believe my portfolio judges me right. (You should find the link to it anywhere my profile image is) 🦄
