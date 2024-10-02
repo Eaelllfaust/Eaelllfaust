@@ -32,22 +32,8 @@ $ echo "I am Eaelll Leon Faust, and you're a proper chat."
 
 ---
 
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Eaelllfaust&show_icons=true&theme=radical)
-
-</details>
-
-<details>
-<summary>🔥 Top Languages</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eaelllfaust&layout=compact&theme=radical)
 
-</details>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=green" alt="Profile views">
-</p>
