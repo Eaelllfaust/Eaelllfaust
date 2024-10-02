@@ -1,4 +1,4 @@
-# 🦁 Eaelll Leon Faust 
+# 🐲 Eaelll Leon Faust 
 
 ```
 $ whoami
