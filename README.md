@@ -4,7 +4,7 @@
 $ whoami
 ```
 
-Yes, I am a software engineer. 💻
+Yes, I am a software engineer ❤️.
 
 ```
 $ cat confession.txt
