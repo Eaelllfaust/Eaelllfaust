@@ -36,7 +36,10 @@ An interdisciplinary designer and software developer. 🎨
 <img align="left"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
                             
           
-<br>
+<br />
+
+#
+
 I am Eaelll Leon Faust, and you're a proper chat.
 
 
