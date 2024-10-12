@@ -28,6 +28,7 @@ An interdisciplinary designer and software developer.
 
 <p>I am Eaelll Leon Faust, and you're a proper chat.</p>
 
+<img   width="100%" style="" src="public/head.png" />
 
 # Gear
 
