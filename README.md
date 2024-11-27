@@ -10,13 +10,13 @@ Yes, I am a software engineer ❤️.
 $ cat confession.txt
 ```
 
-But this is the part where I confess I have an unhealthy obsession with financial technology products. I love building them, I love maintaining them, and I ofcourse, love breaking them, just to fix them right after. Fortune favors the paranoid... and their friends (Who would have thought)
+This is the part where I confess: I have an unhealthy obsession with financial technology products. I love building them, maintaining them, and, of course, breaking them—just so I can fix them right after. Fortune favours the paranoid… and their friends (who would have thought?).
 
 ```
 $ ./company_info.sh
 ```
 
-So what of it? Well I happen to found mypursepay. A company commited to growing the nigerians wealth economy. A canvas I can paint on, and leave any shred of ingenuity that can come of obsession (healthy or unhealthy). 
+So, what of it? Well, I happen to have founded mypursepay, a company committed to growing Nigeria’s wealth economy. A canvas I can paint on and leave any shred of ingenuity that stems from this obsession (healthy or unhealthy).
 
 ```
 $ echo $resolve
