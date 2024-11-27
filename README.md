@@ -21,7 +21,7 @@ So what of it? Well I happen to found mypursepay. A company commited to growing 
 ```
 $ echo $resolve
 ```
-An interdisciplinary designer and software developer. 
+An interdisciplinary designer and software engineer. 
 
 <p>I am Eaelll Leon Faust, and you're a proper chat.</p>
 
