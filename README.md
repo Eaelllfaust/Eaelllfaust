@@ -16,7 +16,7 @@ This is the part where I confess: I have an unhealthy obsession with financial t
 $ ./company_info.sh
 ```
 
-So, what of it? Well, I happen to have founded mypursepay, a company committed to growing Nigeria’s wealth economy. A canvas I can paint on and leave any shred of ingenuity that stems from this obsession (healthy or unhealthy).
+So, what of it? Well, I happen to have founded mypursepay, a company committed to growing Nigeria’s wealth economy. A canvas I can paint on and leave any shred of ingenuity that comes of this obsession (healthy or unhealthy).
 
 ```
 $ echo $resolve
