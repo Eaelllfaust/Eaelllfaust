@@ -6,21 +6,10 @@ $ whoami
 
 Yes, I am a software engineer ❤️.
 
-```
-$ cat confession.txt
-```
-
 This is the part where I confess: I have an unhealthy obsession with financial technology products. I love building them, maintaining them, and, of course, breaking them—just so I can fix them right after. Fortune favours the paranoid… and their friends (who would have thought?).
-
-```
-$ ./company_info.sh
-```
 
 So, what of it? Well, I happen to have founded mypursepay, a company committed to growing Nigeria’s wealth economy. A canvas I can paint on and leave any shred of ingenuity that comes of this obsession (healthy or unhealthy).
 
-```
-$ echo $resolve
-```
 An interdisciplinary designer and software engineer. 
 
 <p>I am Eaelll Leon Faust, and you're a proper chat.</p>
