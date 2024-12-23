@@ -1,14 +1,14 @@
 # 🐉 Eaelll Leon Faust 
 
-Yes, I am an engineer ❤️.
+I'm Leon Faust, an interdisciplinary designer and software engineer.
 
 This is the part where I confess: I have an unhealthy obsession with financial technology products. I love building them, maintaining them, and, of course, breaking them—just so I can fix them right after. Fortune favours the paranoid… and their friends (who would have thought?).
 
-So, what of it? Well, I happen to have founded mypursepay, a company committed to growing Nigeria’s wealth economy. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy).
+So, what of it? Well, I happen to have founded https://mypursepay.com in 2024, a company committed to growing Nigeria’s wealth economy. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy).
 
-An interdisciplinary designer and software engineer. 
+I also run a creative agency https://studio.xenoxforge.com
 
-<p>I am Eaelll Leon Faust, and you're a proper chat.</p>
+Wanna know how I think about work? https://hackernoon.com/the-good-work-theory
 
 <img   width="100%" style="" src="public/updatedhead.svg" />
 
