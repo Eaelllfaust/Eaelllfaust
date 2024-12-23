@@ -8,7 +8,7 @@ So, what of it? Well, I happen to have founded https://mypursepay.com in 2024, a
 
 I also run a creative agency https://studio.xenoxforge.com
 
-For the love of community, I'm working on <a target='_blank'>https://theleonfaust.github.io/unlikelyUI/</a>
+For the love of design, I'm working on <a target='_blank'>https://theleonfaust.github.io/unlikelyUI/</a>
 
 Wanna know how I think about work? https://hackernoon.com/the-good-work-theory
 
