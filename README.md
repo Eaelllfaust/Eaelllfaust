@@ -10,7 +10,7 @@ I also run a creative agency https://studio.xenoxforge.com
 
 Wanna know how I think about work? https://hackernoon.com/the-good-work-theory
 
-<img   width="100%" style="" src="public/updatedhead.svg" />
+<img   width="100%" style="" src="public/one.svg" />
 
 # Gear
 
